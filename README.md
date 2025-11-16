@@ -1,6 +1,6 @@
 # Name: PRASANNA I
 # Reg.no: 21222320079
-# EX 8 sqlinjection
+# EX 8:sqlinjection
 Exploiting SQL Injection vulnerability
 
 # AIM:
