@@ -1,7 +1,6 @@
-# Name: Hariharan M
-# Reg.no: 212224100019
-# EX 8
-# sqlinjection
+# Name: PRASANNA I
+# Reg.no: 21222320079
+# EX 8 sqlinjection
 Exploiting SQL Injection vulnerability
 
 # AIM:
